@@ -1,2 +1,2 @@
 # is_this_word_a_palindrome
-Checking a word for a palindrome
+Пользователь вводит строку, проверить можно ли из нее сделать палиндром и вернуть его
